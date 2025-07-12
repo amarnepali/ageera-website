@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ageera-website/static/css/main.919626dc.css",
+    "main.js": "/ageera-website/static/js/main.5a01601d.js",
+    "static/js/453.72cca7f0.chunk.js": "/ageera-website/static/js/453.72cca7f0.chunk.js",
+    "index.html": "/ageera-website/index.html",
+    "main.919626dc.css.map": "/ageera-website/static/css/main.919626dc.css.map",
+    "main.5a01601d.js.map": "/ageera-website/static/js/main.5a01601d.js.map",
+    "453.72cca7f0.chunk.js.map": "/ageera-website/static/js/453.72cca7f0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.919626dc.css",
+    "static/js/main.5a01601d.js"
+  ]
+}
