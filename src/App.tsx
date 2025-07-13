@@ -36,7 +36,7 @@ import './App.css'; // For basic styling
 
 function App() {
   return (
-    <Router>
+    // <Router>
       <div className="App">
         <nav>
           <ul>
@@ -60,7 +60,7 @@ function App() {
           </Routes>
         </main>
       </div>
-    </Router>
+    // </Router>
   );
 }
 
